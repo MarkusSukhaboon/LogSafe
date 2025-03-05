@@ -60,6 +60,9 @@ LogSafe is a simple password manager application built using Python and the Tkin
    - Use the "Load Record" dropdown to select a previously saved website/app name.
    - The corresponding login, password, and comment fields will be automatically populated.
 
+![LogSafe-UI](https://github.com/user-attachments/assets/decf301a-8d0c-44d9-893a-56c28d27c826)
+
+
 ## File Structure
 
 - `main.py`: The main script that runs the LogSafe application.
