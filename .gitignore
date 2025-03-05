@@ -1,0 +1,25 @@
+# Ignore PyCharm project files
+.idea/
+*.iml
+
+# Ignore workspace-specific settings
+.idea/workspace.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+
+# Ignore __pycache__ and compiled Python files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore virtual environments (if using one)
+venv/
+.venv/
+.env/
+
+# Ignore logs and system files
+*.log
+.DS_Store
+Thumbs.db
