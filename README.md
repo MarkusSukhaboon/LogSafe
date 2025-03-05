@@ -100,4 +100,4 @@ For any questions or feedback, please reach out to [animakontakt@gmail.com].
 
 ---
 
-Enjoy using LogSafe to manage your passwords securely!
+Enjoy using LogSafe to manage your passwords!
