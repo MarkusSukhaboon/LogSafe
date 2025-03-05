@@ -1,5 +1,4 @@
-# LogSafe - Password Manager (no encryption, yet)
-![logsafe_bg_400x400](https://github.com/user-attachments/assets/ad0bcd2d-38d2-4633-9b06-20205d3a0d98)
+![logsafe_icon_32x32](https://github.com/user-attachments/assets/ead93491-decb-4054-a94f-b36851d183ef) # LogSafe - Password Manager (no encryption, yet)
 
 ## Overview
 
