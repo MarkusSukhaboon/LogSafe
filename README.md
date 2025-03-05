@@ -1,4 +1,4 @@
-# LogSafe - Password Manager
+# LogSafe - Password Manager (no encryption, yet)
 
 ## Overview
 
